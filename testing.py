@@ -3,8 +3,6 @@ import streamlit as st
 import pandas as pd 
 import matplotlib.pyplot as plt
 import numpy as np
-import altair as alt
-import plotly.express as px
 from io import StringIO
 
 def main():
